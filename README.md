@@ -1,4 +1,4 @@
-<h1>《后端架构师技术图谱》✅❎</h1>
+<h1>《后端架构师技术图谱》 ✅ ❎ </h1>
 -----------
 
 
@@ -14,20 +14,20 @@
 
 
 * [数据结构](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#数据结构)
-	* [队列](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#队列)
-	* [集合](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#集合)
-	* [链表、数组](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#链表数组)
-	* [字典、关联数组](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#字典关联数组)
-	* [栈](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#栈)
+	* [队列 ✅](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#队列)
+	* [集合 ✅](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#集合)
+	* [链表、数组 ✅](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#链表数组)
+	* [字典、关联数组 ✅](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#字典关联数组)
+	* [栈 ✅](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#栈)
 	* [树](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#树)
-		* [二叉树](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#二叉树)
-		* [完全二叉树](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#完全二叉树)
-		* [平衡二叉树](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#平衡二叉树)
-		* [二叉查找树（BST）](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#二叉查找树bst)
-		* [红黑树](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#红黑树)
-		* [B，B+，B*树](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#b-bb树)
-		* [LSM 树](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#lsm-树)
-	* [BitSet](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#bitset)
+		* [二叉树 ✅](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#二叉树)
+		* [完全二叉树 ✅](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#完全二叉树)
+		* [平衡二叉树 ✅](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#平衡二叉树)
+		* [二叉查找树（BST） ✅](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#二叉查找树bst)
+		* [红黑树 ✅](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#红黑树)
+		* [B，B+，B*树 ✅](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#b-bb树)
+		* [LSM 树 ✅](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#lsm-树)
+	* [BitSet ✅](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#bitset)
 * [常用算法](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#常用算法)
 	* [排序、查找算法 ✅](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#排序查找算法)
 		* [选择排序 ✅](https://github.com/xiangzhijun/architect-awesome/blob/learning/README.md#选择排序)
