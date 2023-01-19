@@ -1119,7 +1119,7 @@ TODO
 
 ### Thrift
 * [官方网站](http://thrift.apache.org/)
-* [《Thrift RPC详解》](https://blog.csdn.net/kesonyk/article/details/50924489)
+* [《Thrift RPC详解》](https://juejin.cn/post/6844903622380093447)
 	* 支持多语言，通过中间语言定义接口。
 
 ### gRPC
